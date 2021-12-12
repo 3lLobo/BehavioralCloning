@@ -1,7 +1,8 @@
-#**Behavioral Cloning**
-##Udacity Self-Driving Car Nanodegree Project 3
+# **Behavioral Cloning**
 
-###Student: Florian Wolf
+## Udacity Self-Driving Car Nanodegree Project 3
+
+### Student: Florian Wolf
 
 
 
